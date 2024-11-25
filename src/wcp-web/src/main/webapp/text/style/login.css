@@ -1,0 +1,100 @@
+body {
+	margin: 0;
+	padding: 0;
+	background: #d3d7d7;
+	background-image: url('../img/bgLogin.jpg');
+}
+
+html {
+	overflow-y: scroll;
+	font-size: 100%; /* bootstrap ��2��3��Ҫ����*/
+}
+
+body {
+	font-family: ΢���ź�, tahoma, verdana, arial, sans-serif;
+	font-size: 85%;
+	margin: 0;
+	padding: 0;
+	line-height: 1.5em;
+	color: #3f3f3f;
+}
+
+#loginPage {
+	margin: 100px auto 0 auto;
+	padding: 0 0 1em 0;
+	height: 100%;
+	width: 600px;
+	text-align: left;
+	background: #e3e9ef;
+	border: solid 1em #fff;
+}
+
+#pageContent {
+	margin: 40px 20px 0 150px;
+	padding: 0;
+}
+
+span.logo {
+	margin: 2.5em 0 0 0;
+	padding: 0;
+	float: left;
+	width: 135px;
+	text-align: center;
+}
+
+.noCookiesEnabledMessage,.noJavaScriptEnabledMessage {
+	color: #ed2c10;
+	margin-top: 3em;
+	text-align: center;
+	font-size: 200%;
+}
+
+.bottomBorder {
+	border-bottom: 1px solid #babec1;
+}
+
+.form-horizontal .form-group {
+	margin-bottom: 12px; *
+	zoom: 1;
+}
+
+h1,h2,h3 {
+	line-height: 50px;
+	font-weight: normal;
+}
+
+#loginform .form-group .control-label {
+	font-size: 120%;
+	margin-right: 10px;
+}
+
+.form-horizontal .controls {
+	padding-left: 0px;
+	margin-left: 0px;
+}
+
+.form-horizontal .controls:first-child { *
+	padding-left: 0px;
+}
+
+#loginPage p#loginDescription {
+	margin-top: 10px;
+	font-size: 110%;
+}
+
+.errorMsg {
+	color: #FF0000;
+	margin: 1.5em 0 0;
+	padding-top: .2em;
+	display: none;
+	font-weight: normal;
+	border-top: 1px solid #babec1;
+}
+
+button {
+	font-family: ΢���ź�, tahoma, verdana, arial, sans-serif;
+}
+
+h1 {
+	font-size: 36px;
+}

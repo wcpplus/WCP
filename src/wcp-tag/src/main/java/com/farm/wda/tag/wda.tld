@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE taglib
+    PUBLIC "-//Sun Microsystems, Inc.//DTD JSP Tag Library 1.2//EN"
+    "http://java.sun.com/dtd/web-jsptaglibrary_1_2.dtd">
+<taglib>
+	<tlib-version>1.0</tlib-version>
+	<jsp-version>1.2</jsp-version>
+	<short-name>在线预览功能标签库</short-name>
+	<uri>/hellotag</uri>
+	<tag><!-- 获取文档预览URL -->
+		<name>DocWebViewUrl</name>
+		<tag-class>com.farm.wda.tag.DocWebViewUrl</tag-class>
+		<body-content>jsp</body-content>
+		<attribute>
+			<name>fileid</name>
+			<required>true</required><!-- 是否必填 -->
+			<rtexprvalue>true</rtexprvalue><!-- 是否能够以${}方式传值 -->
+		</attribute>
+		<attribute>
+			<name>docid</name>
+			<required>true</required><!-- 是否必填 -->
+			<rtexprvalue>true</rtexprvalue><!-- 是否能够以${}方式传值 -->
+		</attribute>
+	</tag>
+	<tag><!-- 是否支持该类型的文档-->
+		<name>IsSupport</name>
+		<tag-class>com.farm.wda.tag.IsSupport</tag-class>
+		<body-content>jsp</body-content>
+		<attribute>
+			<name>fileid</name>
+			<required>true</required><!-- 是否必填 -->
+			<rtexprvalue>true</rtexprvalue><!-- 是否能够以${}方式传值 -->
+		</attribute>
+	</tag>
+</taglib>

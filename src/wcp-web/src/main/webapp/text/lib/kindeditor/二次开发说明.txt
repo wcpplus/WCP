@@ -1,0 +1,1 @@
+解决chrome中图片回显的问题（iframe中为html添加base标签）：<head><meta charset="utf-8" /><title></title>改为<head><meta charset="utf-8" /><title></title><base href="'+basePath+'" />

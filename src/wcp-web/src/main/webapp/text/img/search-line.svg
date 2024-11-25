@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="2560px" height="54px" viewBox="0 0 2560 54" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 52.1 (67048) - http://www.bohemiancoding.com/sketch -->
+    <title>wave-grey</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="2560" height="54"/>
+    </defs>
+    <g id="Page-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="wave-grey">
+            <g id="Mask" fill="#FAFBFC">
+                <rect id="path-1" x="0" y="0" width="2560" height="54"/>
+            </g>
+            <g id="Clipped">
+                <mask id="mask-2" fill="white">
+                    <use xlink:href="#path-1"/>
+                </mask>
+                <g id="path-1"/>
+                <path d="M0,-4.68469449 C0,-4.68469449 129.312051,-3.9752571 208.329262,8.76834052 C287.346474,21.5119381 402.297338,26.4674897 524.428795,25.7606799 C646.560253,25.05387 797.414083,8.76834052 1027.31581,19.388881 C1257.21754,30.006794 1393.43401,41.5233277 1587.67826,41.3367719 C1782.96585,41.1475886 2071.72389,16.7665902 2255.19725,16.5563866 C2443.58042,16.3409278 2608.12034,47.1883167 2823.32333,46.9991334 C3046.35133,46.804695 3218.44008,27.8837369 3362.11331,15.1401393 C3538.40608,-0.496386328 3592.01504,-3.9752571 3699.75463,-4.68469449 C3807.5249,-5.39413188 0,-4.68469449 0,-4.68469449 Z" id="Path" fill="#F3F4F6" mask="url(#mask-2)"/>
+            </g>
+        </g>
+    </g>
+</svg>
