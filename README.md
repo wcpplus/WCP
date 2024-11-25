@@ -56,6 +56,14 @@
 2. 免费版：wcp的稳定版本，经过充分测试在易用性和稳定性上高于开源版，推荐不做二次开发的用户直接将其用于生产环境。
 3. 商业版：功能完善，也是我们的主要收入来源，有兴趣的朋友可以了解一下。
 
+## 开源项目推荐
+	
+> WCP:知识管理系统 [https://github.com/wcpplus/WCP](https://github.com/wcpplus/WCP)
+
+> WTS:在线答题系统 [https://github.com/wcpplus/WTS](https://github.com/wcpplus/WTS)
+
+> WLP:在线学习系统 [https://github.com/wcpplus/WLP](https://github.com/wcpplus/WLP)
+
 ### 商业版介绍
 
  > 知识库/在线答題/在线学习产品介绍 [http://www.wcpknow.com](http://www.wcpknow.com)
